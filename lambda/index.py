@@ -1,4 +1,5 @@
 # lambda/index.py
+# update for workshop
 import json
 import os
 import boto3
